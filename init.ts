@@ -19,7 +19,7 @@ const htmlTemplate =
 </html>`;
 
 const tsTemplate = 
-`import { buildInterface, Text, VStack } from '@frugal-ui/base'
+`import { buildInterface, Text, VStack } from '@frugal-ui/base';
 
 export function main() {
 	buildInterface(
